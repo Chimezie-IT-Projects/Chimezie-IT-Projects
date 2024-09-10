@@ -4,6 +4,17 @@
 
   - [Active Directory Home Lab](https://github.com/Chimezie-IT-Projects/LAB)
 
+<h2>📺 Certifications</h2>
+
+  - [Introduction To Cybersecurity (Security+)](https://verify.calbright.org/b63001f0-06e2-493b-baf1-edb2fb5ce2bb#gs.ewfyr4)
+  
+  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/verify/DYZ9YZ29GHRY)
+   
+  - [Introduction To Ethical Hacking](https://www.mygreatlearning.com/certificate/YOJTTXXM)
+    
+  - [Artificial Intelligence Projects](https://www.mygreatlearning.com/certificate/CJBOICZT)
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
