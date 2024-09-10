@@ -1,3 +1,8 @@
+<a href="https://github.com/chimezie-IT-Projects" target="_blank">
+  <img src="https://img.shields.io/github/followers/chimezie-IT-Projects?label=Follow&style=social" alt="GitHub Follow">
+</a>
+
+
 <h1>Hi, I'm Chimezie! <br/><a href="https://github.com/chimezie-IT-Projects">Web Developer</a>, <a href="https://www.linkedin.com/in/chimezie-mmeremikwu/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@mezzyinfohub">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
