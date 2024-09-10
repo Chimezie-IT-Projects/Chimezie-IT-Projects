@@ -4,7 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/Chimezie-IT-Projects/LAB)
 
-<h2>📺 Certifications</h2>
+<h2>📄 Certifications</h2>
+
 
   - [Introduction To Cybersecurity (Security+)](https://verify.calbright.org/b63001f0-06e2-493b-baf1-edb2fb5ce2bb#gs.ewfyr4)
   
@@ -36,7 +37,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chimezie-IT-Projects/Chimezie-IT-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
